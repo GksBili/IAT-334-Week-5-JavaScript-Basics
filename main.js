@@ -1,7 +1,5 @@
 "use strict";
-
 let question = "What does 4+5 equal to?";
-
 let answer = prompt(question);
 
 if (answer == 9) {
