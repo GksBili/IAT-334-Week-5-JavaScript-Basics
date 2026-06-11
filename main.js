@@ -7,5 +7,5 @@ let answer = prompt(question);
 if (answer == 9) {
     alert("Correct!");
 } else {
-    alert("Incorrect. The correct answer is 9.");
+    alert("Incorrect. Please Try Again.");
 }
